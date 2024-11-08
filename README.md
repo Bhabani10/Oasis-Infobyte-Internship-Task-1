@@ -1,4 +1,4 @@
-# Oasis Infobyte Internship Level2 Task2
+# Oasis Infobyte Internship Task1
 
 Webpage dedicated to a person I admire using HTML and CSS 
 
